@@ -4,3 +4,8 @@ This is a NoSQL database tasting simple project.
 
 ---
 
+```md
+- Golang
+- REST API
+- MongoDB
+```
